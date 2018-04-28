@@ -603,7 +603,7 @@
               "text-align": "left"
             },
             "B": {
-              "color": "#073b4c"
+              "color": "#82786e"
             }
           },
           "_name": "features11",
@@ -745,7 +745,10 @@
               }
             },
             ".count": {
-              "color": "#5b686b"
+              "color": "#82786e"
+            },
+            ".mbr-section-title B": {
+              "color": "#82786e"
             }
           },
           "_name": "counters2",
@@ -870,7 +873,7 @@
               "color": "#ffffff"
             },
             ".mbr-text P": {
-              "color": "#767676"
+              "color": "#232323"
             }
           },
           "_name": "content6",
@@ -898,7 +901,10 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#232323"
+            },
+            ".mbr-text B": {
+              "color": "#b2ccd2"
             }
           },
           "_name": "content7",
@@ -935,11 +941,11 @@
               "color": "#767676"
             },
             ".mbr-text P": {
-              "color": "#767676"
+              "color": "#232323"
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/wom-436x365.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><p><b>Commercial Development</b><br>1.&nbsp; &nbsp; &nbsp;Email<br>2. &nbsp;&nbsp;&nbsp;Word of Mouth<br><font color=\"#ffffff\">3. </font>&nbsp;&nbsp;&nbsp;<font color=\"#ffffff\">Flyers &amp; Banners</font><br><font color=\"#ffffff\">4.</font>&nbsp;&nbsp;&nbsp;&nbsp;<font color=\"#ffffff\">New Website</font></p></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/wom-436x365.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><p><b>Commercial Development</b><br>Email<br>Word of Mouth<br><font color=\"#ffffff\">Flyers &amp; Banners</font><br><font color=\"#ffffff\">New Website</font></p></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQ0qv2X7J4",
           "_anchor": "content6-14",
           "_protectedParams": [],
@@ -1010,7 +1016,7 @@
             }
           },
           "_name": "content11",
-          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#b1a374\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>Performance<br></b>&nbsp; &nbsp; Overall revenue over the next five years should increase (10% - 25%), while maintaining &nbsp;&nbsp;&nbsp;&nbsp;current profit margins.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; Number of customers/clients that we service <br>&nbsp; &nbsp; Number of new services/products offered to our customers<br>&nbsp; &nbsp; Revenue from referrals, online website, advertisements, and online application.</li>\n                    <li><b>Analysis of Environment</b>&nbsp;<br>&nbsp; &nbsp;Changes in customer preferences <br>&nbsp; &nbsp;Changes in our internal resources and competencies<br>&nbsp; &nbsp;Changes in competitive landscape<br>&nbsp; &nbsp;Other changes - such as economic, business, sociocultural, technological, regulatory, &nbsp; &nbsp; &nbsp; &nbsp;and physical context in which this company operates.</li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#b1a374\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>Performance<br></b>Overall revenue over the next five years should increase (10% - 25%), while maintaining &nbsp; current profit margins.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Number of customers/clients that we service <br>Number of new services/products offered to our customers<br>Revenue from referrals, online website, advertisements, and online application.</li>\n                    <li><b>Analysis of Environment</b>&nbsp;<br>Changes in customer preferences <br>Changes in our internal resources and competencies<br>Changes in competitive landscape<br>Other changes - such as economic, business, sociocultural, technological, regulatory, &nbsp; &nbsp; &nbsp; and physical context in which this company operates.</li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQ3N7iY1r7",
           "_anchor": "content11-16",
           "_protectedParams": [],
